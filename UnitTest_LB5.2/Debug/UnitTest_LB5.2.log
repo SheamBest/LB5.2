@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  UnitTest_LB5.2.cpp
+C:\Users\shelv\source\repos\LB5.2\UnitTest_LB5.2\UnitTest_LB5.2.cpp(16,10): warning C4244: аргумент: преобразование "double" в "const int", возможна потеря данных
+     Создается библиотека C:\Users\shelv\source\repos\LB5.2\Debug\UnitTest_LB5.2.lib и объект C:\Users\shelv\source\repos\LB5.2\Debug\UnitTest_LB5.2.exp
+  UnitTest_LB5.2.vcxproj -> C:\Users\shelv\source\repos\LB5.2\Debug\UnitTest_LB5.2.dll
